@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "In this course we will learn the basics of backend using Node.js and Express.js. This course is taught by John Smilga.",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jasminvillatoro/freecodecamp_nodejs_tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jasminvillatoro/freecodecamp_nodejs_tut/issues"
+  },
+  "homepage": "https://github.com/Jasminvillatoro/freecodecamp_nodejs_tut#readme"
+}
